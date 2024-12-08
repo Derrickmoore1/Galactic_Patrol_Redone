@@ -44,4 +44,5 @@ sprite_index = sEnemyR;
 
 }
 
-if(hsp != 0) image_xscale = sign(hsp) + sign(hsp);
+if(hsp != 0) image_xscale = sign(hsp) + sign(hsp) * size;
+image_yscale = size;
