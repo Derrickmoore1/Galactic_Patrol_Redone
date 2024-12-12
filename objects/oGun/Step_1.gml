@@ -14,6 +14,7 @@ if(mouse_check_button(mb_left)) && (firingdelay < 0){
 recoil = 4
 firingdelay = 15;
 ScreenShake(2,10);
+audio_play_sound(snShot,5,false);
 	with(instance_create_layer(x,y,"Bullets",oBullet)){
 	speed = 25;
 	direction = other.image_angle ; //+ random_range(-3,3);
