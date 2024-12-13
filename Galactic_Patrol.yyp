@@ -37,6 +37,7 @@
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},},
     {"id":{"name":"oBdead","path":"objects/oBdead/oBdead.yy",},},
     {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},},
+    {"id":{"name":"oBossu","path":"objects/oBossu/oBossu.yy",},},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oDead","path":"objects/oDead/oDead.yy",},},
