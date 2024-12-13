@@ -13,7 +13,7 @@ draw_sprite(sBossDefeat, 0, x, y + 10); // Draw the extra sprite at the specifie
 
 with (instance_create_layer(x, y, layer, oLevelEnd)) {
     // Optional: Set properties of the instance here if needed
-	target = Room4;
+	target = Room_YouWin;
 }
 
 with(instance_create_layer(x,y,layer,oBdead)){
